@@ -163,7 +163,7 @@ body { /* Estiliza o corpo da página */
     color: var(--fontColor1); /* Cor dinâmica */
 }
 
-.card span.texto { /* Descrição secundária do card */
+.card p.texto { /* Descrição secundária do card */
     font-size: 14px; /* Tamanho da fonte */
     color: var(--fontColor2); /* Cor dinâmica secundária */
     display: block; /* Comportamento de bloco */
