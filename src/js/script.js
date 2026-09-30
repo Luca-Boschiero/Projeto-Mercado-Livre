@@ -9,4 +9,4 @@ const checkbox = document.querySelector("#dark");
 checkbox.addEventListener('change', () => {
 //É a linha principal da lógica. A propriedade classList.toggle verifica se a tag <html> (armazenada na constante html) já possui a classe CSS chamada "light-theme".
  html.classList.toggle("light-theme");
-});
+}); 
